@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">VotingFriends</string>
+    <string name="tittle_details">DetailsActivity</string>
+    <string name="recept_id">Main</string>
+
+
+    <string name="matthew">matthew</string>
+    <string name="matt">matt</string>
+    <string name="courteney">courteneyul</string>
+    <string name="lisa">lisaul</string>
+    <string name="jennifer">jennifer</string>
+    <string name="davidul">davidul</string>
+    
+    <string name="matthew_detail">An executive in statistical analysis and data reconfiguration for a large, multinational corporation. Chandler hates this job, although it pays well. He attempts to quit during season one but is lured back with a new office and a pay raise.</string>
+    <string name="matt_detail">A struggling actor and food lover who becomes famous for his role on soap opera Days of Our Lives as Dr. Drake Ramoray. Joey has many short-term girlfriends. Despite his womanizing, Joey is innocent, caring, and well-intentioned.</string>
+    <string name="courteneyul_detail">The mother hen of the group and a chef, known for her perfectionist, bossy, competitive, and obsessive-compulsive nature. Monica was overweight as a child. </string>
+    <string name="lisaul_detail">A masseuse and self-taught musician. As a child, Phoebe lived in upstate New York with her mother, until she committed suicide and Phoebe took to the streets. She writes and sings her own strange songs, accompanying herself on the guitar.</string>
+    <string name="jennifer_detail">A fashion enthusiast and Monica Geller\'s best friend from childhood. Rachel first moves in with Monica in season one after nearly marrying Barry Farber. Rachel and Ross Geller are later involved in an on-again, off-again relationship throughout the series.</string>
+    <string name="davidul_detail">Monica Geller\'s older brother, a palaeontologist working at the Museum of Natural History, and later a tenured professor of palaeontology at the New York University. Ross is involved in an on-again, off-again relationship with Rachel throughout the series. </string>
+    <string name="voting">voting</string>
+    <string name="tittle_app">Friendsr</string>
+    <string name="detail_app">Click on an eligible single user to leam more and see if you are compatible for a date!</string>
+    <string name="chandler_name">Chandler</string>
+    <string name="joey_name">Joey</string>
+    <string name="monica_name">Monica</string>
+    <string name="phoebe_name">Phoebe</string>
+    <string name="rachel_name">Rachel</string>
+    <string name="ross_name">Ross</string>
+</resources>
